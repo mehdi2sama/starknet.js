@@ -6,7 +6,7 @@
 
 ## [5.24.1](https://github.com/starknet-io/starknet.js/compare/v5.24.0...v5.24.1) (2023-11-13)
 
-### Bug Fixes
+### Bug FixesFixes
 
 - stringify error handler data ([1eab2d3](https://github.com/starknet-io/starknet.js/commit/1eab2d3acd67e8a14d6e10ea24d27aa1e108cdcc))
 
